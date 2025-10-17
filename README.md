@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Gabriel, I’m 21 years old and really enjoy programming. I decided to pursue this path when I first got in touch with it at college. I’ve been passionate about technology and games since I was a kid, and I also enjoy watching MMA.<br>I’m currently studying Systems Analysis and Development at Unimar (University of Marília/SP). In addition, I’m learning C#/ASP.NET and PHP, and I’m looking for an internship in Software Engineering.</h2>
+<h2 align="left">Olá, me chamo Gabriel, curso Analise e Desenvolvimento de Sistemas na Universidade de Marilía, atualmente estou focando em desenvolvimento backend Java e Php</h2>
 
 ###
 
