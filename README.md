@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Gabriel, curso Analise e Desenvolvimento de Sistemas na Universidade de Marilía, atualmente estou focando em desenvolvimento backend Java com Spring</h2>
+<h2 align="left">Olá, me chamo Gabriel e estou em fase final da minha formação em ADS, atualmente sou desenvolvedor júnior</h2>
 
 ###
 
@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
